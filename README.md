@@ -1,7 +1,7 @@
 # 19CS416-CS-Ex-3-Linux-Commands
 
-## Name: N GOWTHAM
-## Reg. No.: 212223100008
+## Name: L yagnesh kumar reddy
+## Reg. No.: 212223100024
 
 ## Aim:
 
